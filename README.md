@@ -12,6 +12,7 @@
 
 #output
 #Logistic Regression Model accuracy:
+
 ![Image](https://github.com/user-attachments/assets/ea93f931-0a48-46bf-909a-43ef1b6a1dde)
 
 #Confusion Matrix Visualization:
