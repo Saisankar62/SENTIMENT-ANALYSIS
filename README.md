@@ -11,3 +11,11 @@
 
 
 #output
+#
+![Image](https://github.com/user-attachments/assets/ea93f931-0a48-46bf-909a-43ef1b6a1dde)
+
+#
+![Image](https://github.com/user-attachments/assets/5726d816-1a69-4377-a6de-8f7d2329b76e)
+
+#
+![Image](https://github.com/user-attachments/assets/809ec0a6-5aba-44d4-8dc8-5085a27e3739)
