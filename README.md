@@ -8,7 +8,7 @@
 
 
 #Description of the task
-.........................
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I sucessfully completed the Sentiment Analysis on IMDB reviews dataset. Library Imported like pandas, numpy-->For data handling,nltk -->For text cleaning (stopwords, tokenization), sklearn-->For ML modeling and evaluation, tensorflow.keras -->For deep learning models like LSTM, matplotlib/seaborn -->For visualization data.
 Dataset used like SMS spam/ham dataset from GitHub as the primary data source,the dataset was loaded directly into the environment using standard data handling libraries.
 Label Mapping -->Original labels are 'ham' → good text, 'spam' → bad text.Then we mapped to 'positive' and 'negative' next converted to numeric: {'positive': 1, 'negative': 0}.
